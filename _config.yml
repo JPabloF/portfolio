@@ -20,7 +20,7 @@ description: >
   Basado en el concepto de PLC "UX Lifecycle - The business guide to implementing great software user experiences", Por Jeremy Baines and Clive Howard.
   Ilustración por Irina Mir @irmirx. Hosteado en GitHub. Sitio implementado en Jekyll 3.8.6. 
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "uxcase" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: eljpablo_
 github_username:  JPabloF

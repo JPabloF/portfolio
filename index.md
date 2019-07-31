@@ -6,4 +6,4 @@ layout: home
 call: Ciclo de vida de producto,<br> como caso de estudio @UX
 ---
 
-<u>Tres preguntas clave</u> para elaborar un relato <br>y mantener una guía de trabajo durante el proceso de diseño.
+<u>Tres preguntas clave</u> para guiar el proceso de diseño, en cada una de sus etapas.

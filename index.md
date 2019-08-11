@@ -5,7 +5,7 @@
 layout: home
 title: Home
 exclude: true
-call: Ciclo de vida de producto,<br> desarrollado como ux case
+call: Ciclo de vida de producto,<br> con enfoque de 'ux case'
 ---
 
-<u>Tres preguntas clave</u> para guiar el proceso de diseño, en cada una de sus etapas.
+Tres preguntas útiles para entender el proceso de diseño, en cada una de sus etapas.
